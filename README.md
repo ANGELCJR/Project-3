@@ -1,7 +1,7 @@
 # Project Name
 filmZone 
 ## Project Summary
-A application that stores and saves a users favorite movies and tv shows they enjoy
+A application that lets users browse movies and saves a users favorite movies and tv shows they enjoy. Users can add their birthday and email address.
 ## Developers
 1. Angel Castillo JR
 ## Installation Instructions
