@@ -1,19 +1,10 @@
 # Project-3
 # Project Name
-​
-​
+Tv and Movie Watchlist
 ## Project Summary
-​
-...
-​
+A application that stores and saves a users favorite movies and tv shows they enjoy
 ## Developers
-​
-1. ...
-​
-2. ...
-​
-3. ...
-​
+1. Angel Castillo JR
 ## Installation Instructions
 ​
 - Clone our repo to your computer
@@ -26,18 +17,14 @@
 - Place various screens of your app here after they have been built
 ​
 ## Tech Stack
-​
 - What languages is it written with: 
-​
+​ JavaScript
+​ Html
+​ CSS
 - What libraries are used: 
-​
-- Other: 
-​
-​
+​ React 
 ## APIs
-​
--
-​
+​ REST API
 ## MVP (Minimum Viable Product)
 ​
 -
