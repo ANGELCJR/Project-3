@@ -1,4 +1,3 @@
-# Project-3
 # Project Name
 Tv and Movie Watchlist
 ## Project Summary
