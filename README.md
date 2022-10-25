@@ -1,5 +1,5 @@
 # Project Name
-Tv and Movie Watchlist
+filmZone 
 ## Project Summary
 A application that stores and saves a users favorite movies and tv shows they enjoy
 ## Developers
