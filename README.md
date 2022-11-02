@@ -25,7 +25,8 @@ A application that lets users browse movies and saves a users favorite movies an
 ## APIs
 ​ REST API
 ## MVP (Minimum Viable Product)
-​
+​for user to be able to search desired movie
+for user to see history
 -
 ​
 ​
