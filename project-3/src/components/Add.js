@@ -10,7 +10,7 @@ export const Add = () => {
 
     setQuery(e.target.value);
 
-    fetch(`https://api.themoviedb.org/3/search/movie?api_key=${process.env.local.REACT_APP_TMDB_KEY}&language=en-US&page=1&include_adult=false&query=${e.target.value}`
+    fetch(`https://api.themoviedb.org/3/movie/550?api_key=e2b473171136a2dfcebe1f306971e18c`
     )
       .then((res) => res.json())
       .then((data) => {
